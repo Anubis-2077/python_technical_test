@@ -1,0 +1,38 @@
+#python generated files
+# Archivos generados por Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+
+#ides generated files
+.vscode/
+
+# Docker
+*.log
+docker-compose.override.yml
+.env
+
+# Archivos de logs
+*.log
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+
+#folders 
+/migrations
